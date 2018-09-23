@@ -1,0 +1,3 @@
+rootProject.name = 'unsolvques'
+
+include ':app'
